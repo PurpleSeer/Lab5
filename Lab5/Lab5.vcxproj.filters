@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="PL.h">
+    <ClInclude Include="Cat.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
